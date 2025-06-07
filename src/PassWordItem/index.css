@@ -1,0 +1,93 @@
+.list-item {
+  background-color: transparent;
+  border: 1px solid #b6c3ca;
+  border-radius: 5px;
+  padding: 10px;
+  color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  width: 25%;
+}
+
+.initial-cont {
+  border: none;
+  width: 35px;
+  height: 35px;
+  border-radius: 17px;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.color1 {
+  background-color: #7683cb;
+}
+
+.color2 {
+  background-color: #f59e0b;
+}
+
+.color3 {
+  background-color: #10b981;
+}
+
+.color4 {
+  background-color: #f97316;
+}
+
+.color5 {
+  background-color: #14b8a6;
+}
+
+.color6 {
+  background-color: #b91c1c;
+}
+
+.color7 {
+  background-color: #0ea5e9;
+}
+
+.color8 {
+  background-color: #64748b;
+}
+
+.color9 {
+  background-color: #ffffff;
+  color: #5763a5;
+}
+
+.initial {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.name-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.name {
+  font-size: 15px;
+  margin: 10px;
+}
+
+.stars {
+  height: 20px;
+  width: 120px;
+}
+
+.delete-btn {
+  border: none;
+  background-color: transparent;
+  padding: 10px;
+}
+
+.delete-icon {
+  height: 25px;
+  width: 25px;
+}
